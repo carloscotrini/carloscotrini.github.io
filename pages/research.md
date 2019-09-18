@@ -4,7 +4,7 @@ title: Research
 description: Carlos Cotrini's research
 ---
 
-#### <u>The Next 700 Policy Miners: A Universal Method to Build Policy Miners</u>
+#### <u>The Next 700 Policy Miners: A Universal Method to Build Policy Miners (to appear in CCS 2019)</u>
 
 Carlos Cotrini, Luca Corinzia, Thilo Weghorn, David Basin
 

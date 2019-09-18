@@ -32,11 +32,13 @@ Before that I did my doctoral studies under the supervision of Prof. David Basin
     </div>
 </div>
 
+<!--
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/CV_carlos_cotrini.pdf">CV</a></li>
-          <li><a href="https://github.com/carloscotrini">GitHub</a></li>
+	  <li><a href="https://github.com/carloscotrini/">GitHub</a></li>
       </ul>
   </div>
 </div>
+-->
