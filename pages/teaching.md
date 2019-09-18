@@ -1,15 +1,20 @@
 ---
 layout: page
-title: Research
-description: Blue Ham's research
+title: Teaching
+description: Carlos Cotrini's teaching material
 ---
 
+#### <u>An elementary introduction to quantum computing (VMI retreat 2019)</u>
+*We present here all the basics for quantum computation, using only linear algebra over the real numbers. No previous knowledge of quantum mechanics or analysis with complex numbers is required.*
+[[Notes]({{ BASE_PATH}}/assets/qc/notes.pdf) | [Presentation]({{ BASE_PATH}}/assets/qc/presentation.pdf)]
 
+#### <u>A dog, a vegan flea, and the EM algorithm (Statistical Learning Theory 2019)</u>
+*A simple, but rigorous derivation of the expectation-maximization algorithm using a bidimensional dog and a vegan flea.*
+[[Notes]({{ BASE_PATH}}/assets/em/notes.pdf) | [Presentation]({{ BASE_PATH}}/assets/em/presentation.pdf) | [GIF]({{ BASE_PATH}}/assets/em/vegan_flea.pdf)]
 
-#### <u>The effects of increased eye contact on feeding portions</u>
-*In this paper I estimate the effect of increased eye contact on the size of feeding portions delivered by my humans. Over a period of several months I varied the amount of time I spent in locked eye contact with my masters while secretely recording the total amount of food provided each day. The results incidate that the relationship between eye contact and portion size is concave, in that as eye contact increases, the portion size increases up until a point where it begins to decrease. Future research will examine whether time spent cuddling exhibits a similar relationship.*
-
-[click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/sample-working-paper.pdf)
+#### <u>The essentials of machine and deep learning (Software crafters 2018)</u>
+*A half-day workshop giving an introduction to classification, using machine and deep learning. Only basic programming knowledge in Python is required.*
+[[Presentation ML]({{ BASE_PATH}}/assets/mldl/ml_workshop.pdf) | [Presentation DL]({{ BASE_PATH}}/assets/mldl/dl_workshop.pdf) | [Docker image ML](https://hub.docker.com/r/carloscotrini/mlworkshop) | [Docker Image DL](https://hub.docker.com/r/carloscotrini/dlworkshop)]
 
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
