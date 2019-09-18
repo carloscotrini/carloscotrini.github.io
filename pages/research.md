@@ -1,15 +1,15 @@
 ---
 layout: page
 title: Research
-description: Blue Ham's research
+description: Carlos Cotrini's research
 ---
 
+#### <u>Mining ABAC Rules from Sparse Logs (EuroS&P 2018)</u>
+*Different methods have been proposed to mine attribute-based access control (ABAC) rules from logs. In practice, these logs are sparse in that they contain only a fraction of all possible requests. However, for sparse logs, existing methods mine and validate overly permissive rules, enabling privilege abuse. We define a novel measure, reliability, that quantifies how overly permissive a rule is and we show why other standard measures like confidence and entropy fail in quantifying overpermissiveness. We build upon state-of-the-art subgroup discovery algorithms and our new reliability measure to design Rhapsody, the first ABAC mining algorithm with correctness guarantees: Rhapsody mines a rule if and only if the rule covers a significant number of requests, its reliability is above a given threshold, and there is no equivalent shorter rule. We evaluate Rhapsody on different real-world scenarios using logs from Amazon and a computer lab at ETH Zurich. Our results show that Rhapsody generalizes better and produces substantially smaller rules than competing approaches.* [DOI](10.1109/EuroSP.2018.00011)
 
 
-#### <u>The effects of increased eye contact on feeding portions</u>
-*In this paper I estimate the effect of increased eye contact on the size of feeding portions delivered by my humans. Over a period of several months I varied the amount of time I spent in locked eye contact with my masters while secretely recording the total amount of food provided each day. The results incidate that the relationship between eye contact and portion size is concave, in that as eye contact increases, the portion size increases up until a point where it begins to decrease. Future research will examine whether time spent cuddling exhibits a similar relationship.*
-
-[click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/sample-working-paper.pdf)
+#### <u>Analyzing First-Order Role-Based Access Cotnrol (CSF 2015)</u>
+*We propose FORBAC, an extension of Role-Based Access Control (RBAC) based on first-order logic. FORBAC is expressive enough to formalize a wide range of access control policies. However, it is simple enough so that relevant policy analysis queries can be analyzed in NP, which we argue is a natural complexity class for this problem. To analyze queries efficiently, we reduce them to the problem of satisfiability modulo appropriate theories, and use off-the-shelf SMT solvers. We evaluate FORBAC's expressiveness and our approach to policy analysis in a case study, analyzing access control in a European bank.* [DOI](10.1109/CSF.2015.8)
 
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->

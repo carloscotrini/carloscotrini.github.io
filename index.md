@@ -9,7 +9,7 @@ I'm a postdoctoral researcher in Prof. Joachim Buhmann's group at the ETH Züric
 
 Before that I did my doctoral studies under the supervision of Prof. David Basin at the ETH Zürich. Before joining the ETH Zürich, I worked on infon logic under the supervision of Prof. Yuri Gurevich.
 
-[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV_carlos_cotrini.pdf)<br/>
+[Curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV_carlos_cotrini.pdf)<br/>
 
 
 ---
@@ -35,7 +35,7 @@ Before that I did my doctoral studies under the supervision of Prof. David Basin
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/CV_carlos_cotrini.pdf">cv</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/CV_carlos_cotrini.pdf">CV</a></li>
           <li><a href="https://github.com/carloscotrini">GitHub</a></li>
       </ul>
   </div>
