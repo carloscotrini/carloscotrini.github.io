@@ -5,7 +5,7 @@ description: Postdoctoral researcher at the ETH Zürich
 keywords: Teaching, computer science, access control, policy mining
 ---
 
-I'm a postdoctoral researcher at the institute of machine learning at the ETH Zürich, under the supervision of [Prof. Joachim Buhmann](https://ml.inf.ethz.ch/people/person-detail.html?persid=113456). My interests are in the application of machine-learning techniques for the analysis and maintenance of access control systems. I currently work in the development of a machine-learning course for medicine students.
+I'm a postdoctoral researcher at the institute of machine learning at the ETH Zürich, under the supervision of [Prof. Joachim Buhmann](https://inf.ethz.ch/people/person-detail.buhmann.html). My interests are in the application of machine-learning techniques for the analysis and maintenance of access control systems. I currently work in the development of a machine-learning course for medicine students.
 
 Before that I did my doctoral studies at the institute of information security at the ETH Zürich, under the supervision of [Prof. David Basin](https://inf.ethz.ch/personal/basin/). Before joining the ETH Zürich, I worked on infon logic under the supervision of [Prof. Yuri Gurevich](http://web.eecs.umich.edu/~gurevich/).
 
@@ -16,7 +16,7 @@ Before that I did my doctoral studies at the institute of information security a
 
 
 <div class="container">
-<h4><a name="Contact"></a>contact</h4>
+<h4><a name="contact"></a>Contact</h4>
 
     <div class="row-fluid">
         <div class="span5">
