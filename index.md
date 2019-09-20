@@ -32,6 +32,9 @@ Before that I did my doctoral studies at the institute of information security a
     </div>
 </div>
 
+<hr>
+<span id="lastModified"></span>
+
 <!--
 <div class="navbar">
   <div class="navbar-inner">
