@@ -1,6 +1,6 @@
 This is the GitHub repository used to create a simple academic website. [The tutorial can be found here.](http://marisacarlos.com/pages/create-simple-academic-website)
 
-This tutorial and website are heavily based on the tutorial and website from [Karl Broman](http://kbroman.org). Thanks Karl Broman!
+This website is heavily based on the websites from [Marisa Carlos](https://marisacarlos.com/) and [Karl Broman](http://kbroman.org). Thanks Marisa and Karl!
 
 ---
 
